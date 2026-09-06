@@ -1,0 +1,306 @@
+{
+  "bandas": [
+    {
+      "id": "beatles",
+      "nome": "The Beatles",
+      "pais": "Reino Unido",
+      "anoFormacao": 1960,
+      "generos": ["Rock", "Pop rock"],
+      "integrantes": [
+        "John Lennon",
+        "Paul McCartney",
+        "George Harrison",
+        "Ringo Starr"
+      ],
+      "quantidadeDiscosEstudio": 13,
+      "vocalistas": ["John Lennon", "Paul McCartney"],
+      "vocalistasTambemGuitarristas": true,
+      "separouEVoltou": false,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": false,
+      "vocalistaTambemBaixista": true,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": true,
+      "vocalistaTambemGuitarrista": true,
+      "ganhouGrammy": true,
+      "integrantesTemRelacionamentoRomantico": false,
+      "integrantesSaoIrmaos": false
+    },
+    {
+      "id": "nirvana",
+      "nome": "Nirvana",
+      "pais": "Estados Unidos",
+      "anoFormacao": 1987,
+      "generos": ["Rock", "Grunge", "Alternativo"],
+      "integrantes": [
+        "Kurt Cobain",
+        "Krist Novoselic",
+        "Dave Grohl"
+      ],
+      "quantidadeDiscosEstudio": 3,
+      "vocalistas": ["Kurt Cobain"],
+      "vocalistasTambemGuitarristas": true,
+      "separouEVoltou": false,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": false,
+      "vocalistaTambemBaixista": false,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": false,
+      "vocalistaTambemGuitarrista": true,
+      "ganhouGrammy": true,
+      "integrantesTemRelacionamentoRomantico": false,
+      "integrantesSaoIrmaos": false
+    },
+    {
+      "id": "os-mutantes",
+      "nome": "Os Mutantes",
+      "pais": "Brasil",
+      "anoFormacao": 1966,
+      "generos": ["Rock", "Rock psicodélico", "Tropicália", "Rock experimental"],
+      "integrantes": [
+        "Rita Lee",
+        "Arnaldo Baptista",
+        "Sérgio Dias",
+        "Liminha",
+        "Dinho Leme"
+      ],
+      "quantidadeDiscosEstudio": 9,
+      "vocalistas": [
+        "Rita Lee",
+        "Arnaldo Baptista",
+        "Sérgio Dias"
+      ],
+      "vocalistasTambemGuitarristas": true,
+      "separouEVoltou": true,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": true,
+      "vocalistaTambemBaixista": true,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": true,
+      "vocalistaTambemGuitarrista": true,
+      "ganhouGrammy": false,
+      "integrantesTemRelacionamentoRomantico": true,
+      "integrantesSaoIrmaos": true
+    },
+    {
+      "id": "fleetwood-mac",
+      "nome": "Fleetwood Mac",
+      "pais": "Reino Unido",
+      "anoFormacao": 1967,
+      "generos": ["Rock", "Blues rock", "Pop rock"],
+      "integrantes": [
+        "Mick Fleetwood",
+        "John McVie",
+        "Christine McVie",
+        "Stevie Nicks",
+        "Lindsey Buckingham"
+      ],
+      "quantidadeDiscosEstudio": 18,
+      "vocalistas": [
+        "Peter Green",
+        "Jeremy Spencer",
+        "Christine McVie",
+        "Bob Welch",
+        "Lindsey Buckingham",
+        "Stevie Nicks"
+      ],
+      "vocalistasTambemGuitarristas": true,
+      "separouEVoltou": true,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": true,
+      "vocalistaTambemBaixista": false,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": true,
+      "vocalistaTambemGuitarrista": true,
+      "ganhouGrammy": true,
+      "integrantesTemRelacionamentoRomantico": true,
+      "integrantesSaoIrmaos": false
+    },
+    {
+      "id": "roxette",
+      "nome": "Roxette",
+      "pais": "Suécia",
+      "anoFormacao": 1986,
+      "generos": ["Pop", "Pop rock", "Power pop"],
+      "integrantes": [
+        "Marie Fredriksson",
+        "Per Gessle"
+      ],
+      "quantidadeDiscosEstudio": 10,
+      "vocalistas": [
+        "Marie Fredriksson",
+        "Per Gessle"
+      ],
+      "vocalistasTambemGuitarristas": true,
+      "separouEVoltou": false,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": true,
+      "vocalistaTambemBaixista": false,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": true,
+      "vocalistaTambemGuitarrista": true,
+      "ganhouGrammy": false,
+      "integrantesTemRelacionamentoRomantico": false,
+      "integrantesSaoIrmaos": false
+    },
+    {
+      "id": "mamas-and-the-papas",
+      "nome": "The Mamas and the Papas",
+      "pais": "Estados Unidos",
+      "anoFormacao": 1965,
+      "generos": ["Folk rock", "Pop", "Sunshine pop"],
+      "integrantes": [
+        "John Phillips",
+        "Michelle Phillips",
+        "Denny Doherty",
+        "Cass Elliot"
+      ],
+      "quantidadeDiscosEstudio": 5,
+      "vocalistas": [
+        "John Phillips",
+        "Michelle Phillips",
+        "Denny Doherty",
+        "Cass Elliot"
+      ],
+      "vocalistasTambemGuitarristas": true,
+      "separouEVoltou": true,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": true,
+      "vocalistaTambemBaixista": false,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": false,
+      "vocalistaTambemGuitarrista": true,
+      "ganhouGrammy": true,
+      "integrantesTemRelacionamentoRomantico": true,
+      "integrantesSaoIrmaos": false
+    },
+    {
+      "id": "the-police",
+      "nome": "The Police",
+      "pais": "Reino Unido",
+      "anoFormacao": 1977,
+      "generos": ["Rock", "New wave", "Reggae rock", "Post-punk"],
+      "integrantes": [
+        "Sting",
+        "Andy Summers",
+        "Stewart Copeland"
+      ],
+      "quantidadeDiscosEstudio": 5,
+      "vocalistas": [
+        "Sting"
+      ],
+      "vocalistasTambemGuitarristas": false,
+      "separouEVoltou": true,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": false,
+      "vocalistaTambemBaixista": true,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": false,
+      "vocalistaTambemGuitarrista": false,
+      "ganhouGrammy": true,
+      "integrantesTemRelacionamentoRomantico": false,
+      "integrantesSaoIrmaos": false
+    },
+    {
+      "id": "paralamas-do-sucesso",
+      "nome": "Os Paralamas do Sucesso",
+      "pais": "Brasil",
+      "anoFormacao": 1977,
+      "generos": ["Rock", "Reggae rock", "New wave", "Pop rock"],
+      "integrantes": [
+        "Herbert Vianna",
+        "Bi Ribeiro",
+        "João Barone"
+      ],
+      "quantidadeDiscosEstudio": 13,
+      "vocalistas": [
+        "Herbert Vianna"
+      ],
+      "vocalistasTambemGuitarristas": true,
+      "separouEVoltou": false,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": false,
+      "vocalistaTambemBaixista": false,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": false,
+      "vocalistaTambemGuitarrista": true,
+      "ganhouGrammy": true,
+      "integrantesTemRelacionamentoRomantico": false,
+      "integrantesSaoIrmaos": false
+    },
+    {
+      "id": "motorhead",
+      "nome": "Motörhead",
+      "pais": "Reino Unido",
+      "anoFormacao": 1975,
+      "generos": ["Heavy metal", "Hard rock", "Speed metal"],
+      "integrantes": [
+        "Lemmy",
+        "Fast Eddie Clarke",
+        "Phil Taylor"
+      ],
+      "quantidadeDiscosEstudio": 22,
+      "vocalistas": [
+        "Lemmy"
+      ],
+      "vocalistasTambemGuitarristas": false,
+      "separouEVoltou": false,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": false,
+      "vocalistaTambemBaixista": true,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": false,
+      "vocalistaTambemGuitarrista": false,
+      "ganhouGrammy": true,
+      "integrantesTemRelacionamentoRomantico": false,
+      "integrantesSaoIrmaos": false
+    },
+    {
+      "id": "rush",
+      "nome": "Rush",
+      "pais": "Canadá",
+      "anoFormacao": 1968,
+      "generos": ["Rock", "Progressive rock", "Hard rock"],
+      "integrantes": [
+        "Geddy Lee",
+        "Alex Lifeson",
+        "Neil Peart"
+      ],
+      "quantidadeDiscosEstudio": 19,
+      "vocalistas": [
+        "Geddy Lee"
+      ],
+      "vocalistasTambemGuitarristas": false,
+      "separouEVoltou": false,
+      "nomeDeAnimal": false,
+      "nomeDeLugar": false,
+      "integranteTemCarreiraSolo": true,
+      "formacaoMista": false,
+      "vocalistaTambemBaixista": true,
+      "vocalistaTambemBaterista": false,
+      "vocalistaTambemTecladista": true,
+      "vocalistaTambemGuitarrista": false,
+      "ganhouGrammy": false,
+      "integrantesTemRelacionamentoRomantico": false,
+      "integrantesSaoIrmaos": false
+    }
+  ]
+}
