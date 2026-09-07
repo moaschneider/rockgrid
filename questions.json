@@ -1,0 +1,96 @@
+[
+  {
+    "id": "001",
+    "textQuestion": "Banda britânica",
+    "key": "origin",
+    "value": "Reino Unido"
+  },
+  {
+    "id": "002",
+    "textQuestion": "Formada nos anos 1960",
+    "key": "formationYear",
+    "min": 1960,
+    "max": 1969
+  },
+  {
+    "id": "003",
+    "textQuestion": "Formada nos anos 1970",
+    "key": "formationYear",
+    "min": 1970,
+    "max": 1979
+  },
+  {
+    "id": "004",
+    "textQuestion": "Banda com mais de 10 discos de estúdio",
+    "key": "qtyStudioAlbums",
+    "min": 11
+  },
+  {
+    "id": "005",
+    "textQuestion": "Power trio",
+    "key": "members",
+    "quantity": 3
+  },
+  {
+    "id": "006",
+    "textQuestion": "Formada por homens e mulheres",
+    "key": "mixGender",
+    "value": true
+  },
+  {
+    "id": "007",
+    "textQuestion": "Vocalista também é baixista",
+    "key": "singerAlsoBasist",
+    "value": true
+  },
+  {
+    "id": "008",
+    "textQuestion": "Integrante também tem carreira solo",
+    "key": "memberHasSoloCareer",
+    "value": true
+  },
+  {
+    "id": "009",
+    "textQuestion": "Banda estadunidense",
+    "key": "origin",
+    "value": "Estados Unidos"
+  },
+  {
+    "id": "010",
+    "textQuestion": "Banda brasileira",
+    "key": "origin",
+    "value": "Brasil"
+  },
+  {
+    "id": "011",
+    "textQuestion": "Integrantes tem/tiveram relacionamento romântico entre sí",
+    "key": "hasInterBandRomance",
+    "value": true
+  },
+  {
+    "id": "012",
+    "textQuestion": "Formada nos anos 1980",
+    "key": "formationYear",
+    "min": 1980,
+    "max": 1989
+  },
+  {
+    "id": "013",
+    "textQuestion": "Formada nos anos 1990",
+    "key": "formationYear",
+    "min": 1990,
+    "max": 1999
+  },
+  {
+    "id": "014",
+    "textQuestion": "Banda sueca",
+    "key": "origin",
+    "value": "Suécia"
+  },
+  {
+    "id": "015",
+    "textQuestion": "Já ganhou um Grammy",
+    "key": "grammyWinner",
+    "value": true
+  }
+]
