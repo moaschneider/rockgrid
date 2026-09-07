@@ -197,18 +197,21 @@ A separação dos dados e a lógica de consulta já estão representadas em `ban
 
 O código em `script.js` já realiza as seguintes ações:
 
-1. carrega a base de dados das bandas (`bands.json`)
-1. carrega a base de dados com as características das bandas (`caracteristicas.json`)
-1. embaralha e seleciona dados para serem inseridas nas células de características (`selectValidCharacteristics()`)
-1. cria o grid central do jogo, inserindo células de características na região correta (`createGrid()`)
+1. carrega a base de dados das bandas (`bands.json`);
+1. carrega a base de dados com as características das bandas (`caracteristicas.json`);
+1. embaralha e seleciona dados para serem inseridas nas células de características (`selectValidCharacteristics()`);
+1. cria o grid central do jogo, inserindo células de características na região correta (`createGrid()`);
+1. seleciona e verifica se a interseção das questões possuem ao menos uma resposta válida;
+1. criar lógica que selecione bandas de acordo com a característica sorteada;
+1. filtra as questões para que cada interseção possua, no mínimo, uma resposta possível;
+1. usar `getIntersectionBands` na validação das respostas;
 
 ## Próximos passos
 
 A integração completa ainda precisa ser concluída no fluxo principal do jogo. Atualmente, a página carrega `script.js`, que ainda deve ser ajustado para:
 
-1. criar lógica que selecione bandas de acordo com a característica sorteada;
-1. filtrar a seleção das características para que cada interseção possua, no mínimo, três respostas (bandas) possíveis;
-1. usar `getIntersectionBands` na validação das respostas;
+1. estudar integração com a api do [MusicBrainz](https://musicbrainz.org/doc/MusicBrainz_API);
+1. terminar a implementação do modal de respostas;
 1. transformar as bandas em um formato único usado pela lógica;
 1. criar um sistema de pontuação para o jogo;
 
